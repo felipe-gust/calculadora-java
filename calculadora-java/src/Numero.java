@@ -1,3 +1,5 @@
+import java.util.InputMismatchException;
+
 public class Numero {
     
     private int valor;
@@ -19,6 +21,6 @@ public class Numero {
         String s = "Resultado: " + valor;
         return s;
     }
-
+    
 
 }
