@@ -1,2 +1,3 @@
 # calculadora-java
-All algorithms implemented in Java
+
+Calculadora Java usando Orientação a Objetos e Exception.
